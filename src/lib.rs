@@ -1,0 +1,15 @@
+pub mod armour;
+pub mod attacks;
+pub mod character_traits;
+pub mod characteristics;
+pub mod equipment;
+pub mod family;
+pub mod health;
+pub mod history_and_events;
+pub mod holdings;
+pub mod horses;
+pub mod passions;
+pub mod passive_glory;
+pub mod personal_info;
+pub mod skills;
+pub mod squire;
